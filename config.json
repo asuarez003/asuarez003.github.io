@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://llilasbenson.utexas.edu/assets/img/arcus_1.jpg",
+    "link": "https://llilasbenson.utexas.edu/",
+    "text": "Alexandria Suarez"
+  },
+  "text": {
+    "more": "",
+    "intro": "A visualization of 19th-century photographs of Mexican leaders and politicians. This visualization focuses on the photographers that took the photographs as well as their subjects and the relationships between them.",
+    "title": "Visualizing the 19th-century Mexican Political Sphere"
+  },
+  "legend": {
+    "edgeLabel": "Relationships",
+    "colorLabel": "Photography Role",
+    "nodeLabel": "Individuals"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Category",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Image Link"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
