@@ -1,4 +1,3 @@
-var groupNames = ['Photographer','Subject'];
 var sigInst, canvas, $GP
 
 //Load configuration file
