@@ -8,8 +8,8 @@
     "text": "Alexandria Suarez"
   },
   "text": {
-    "more": "This visualization is the final product of Alexandria Suarez's Spring 2019 Capstone project. This capstone project counted towards completion of an MSIS at the University of Texas at Austin School of Information.",
-    "intro": "This visualization depicts the relationships between Mexican photographers and their subjects during the War of Reform and the French Intervention in Mexico. The photographs depicted in this visualization are from the Genaro García Photograph collection at the Benson Latin American Collection. As part of my School of Information capstone project for spring 2019, I was tasked with digitizing 425 photographs from boxes 14 and 15 of the collection and creating a visualization to show relationships among the photographers and subjects. The project entailed digitizing photographs, creating image derivatives, creating and implementing metadata, creating the visualization using Gephi, and publishing it online using Github. ",
+    "more": "As part of my School of Information capstone project for spring 2019, I was tasked with digitizing 425 photographs from boxes 14 and 15 of the collection and creating a visualization to show relationships among the photographers and subjects. The project entailed digitizing photographs, creating image derivatives, creating and implementing metadata, creating the visualization using Gephi, and publishing it online using Github.",
+    "intro": "This visualization depicts the relationships between Mexican photographers and their subjects during the War of Reform and the French Intervention in Mexico. The photographs depicted in this visualization are from the Genaro García Photograph collection at the Benson Latin American Collection. ",
     "title": "Visualizing the 19th-century Mexican Political Sphere"
   },
   "legend": {
